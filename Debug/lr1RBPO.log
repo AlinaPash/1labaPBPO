@@ -1,0 +1,15 @@
+﻿  CompareString.c
+C:\Users\User\Downloads\lr1RBPO\lr1RBPO\CompareString.c(4,15): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+  GetPersons.c
+C:\Users\User\Downloads\lr1RBPO\lr1RBPO\GetPersons.c(9,32): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\Downloads\lr1RBPO\lr1RBPO\GetPersons.c(22,72): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\Downloads\lr1RBPO\lr1RBPO\GetPersons.c(23,27): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\Downloads\lr1RBPO\lr1RBPO\GetPersons.c(34,35): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+  Person.c
+  SortType.c
+  StructPerson.c
+C:\Users\User\Downloads\lr1RBPO\lr1RBPO\StructPerson.c(4,27): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\Downloads\lr1RBPO\lr1RBPO\StructPerson.c(4,49): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\Downloads\lr1RBPO\lr1RBPO\StructPerson.c(5,11): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  lr1RBPO.vcxproj -> C:\Users\User\Downloads\lr1RBPO\lr1RBPO\Debug\lr1RBPO.exe
